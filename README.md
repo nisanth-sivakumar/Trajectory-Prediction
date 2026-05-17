@@ -81,7 +81,7 @@ Trajectory-Prediction/
 ├── yolov9/                  # YOLOv9 detection backbone
 │   ├── models/              # Model architecture definitions
 │   ├── utils/               # Detection utilities
-│   └── detect.py            # Inference entry point
+│   └── detect_dual_tracking.py            # Inference entry point
 ├── .gitignore
 └── README.md
 ```
