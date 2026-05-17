@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+yolov9_env/
+.venv/
+yolov9/yolov9_env/
+
+# PyTorch / ML
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Training outputs
+runs/
+outputs/
+logs/
+
+# Datasets
+datasets/
+data/
+
+# Videos/images
+*.mp4
+*.avi
+*.mov
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+.zip
